@@ -1,4 +1,4 @@
-name: intellicode-training
+name: intellicode-demo
 
 on:
   push:
