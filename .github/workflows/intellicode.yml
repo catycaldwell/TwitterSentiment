@@ -1,4 +1,4 @@
-name: intellicode-MVPSummitdemo
+name: intellicode-demo
 
 on:
   push:
